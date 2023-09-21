@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/issues</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/pulls</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/projects?query=is%3Aopen</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/security</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/6a6a930c7ee8289528e8e7029d3987df00c88a60</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/releases</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/compare</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262966386</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262917923</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262904816</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262858936</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262818995</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262773083</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262738584</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262616819</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262592009</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/fcbda27d3b03b3c9c803af265de96d4671183a07</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels?sort=name-asc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels?sort=name-desc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels?sort=count-desc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels?sort=count-asc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/bug</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/documentation</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/duplicate</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/enhancement</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/good%20first%20issue</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/help%20wanted</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/invalid</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/question</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/labels/wontfix</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262966386/job/17006320323</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262966386/job/17006340825</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262966386/job/17006341258</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262966386/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262917923/job/17006176971</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262917923/job/17006197212</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262917923/job/17006196799</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262917923/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262904816/job/17006135400</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262904816/job/17006157030</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262904816/job/17006157426</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262904816/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/a8d8eb1fa96373321721953e3bf7af9f557adaa0</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262858936/job/17005990192</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262858936/job/17006008228</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262858936/job/17006008527</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262858936/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/cc1066caeee6f792c9d4dab1a505e0df36ad719e</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262818995/job/17005863061</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262818995/job/17005886781</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262818995/job/17005887258</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262818995/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/41ab5a052bca2ac8f0de024f62fdc0dcfb0c2737</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262773083/job/17005718416</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262773083/job/17005742966</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262773083/job/17005743359</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262773083/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/2894195a318bee9e0cfc5978f88f2955d1208554</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262738584/job/17005624279</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262738584/job/17005646263</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262738584/job/17005646654</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262738584/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/fec8054ed64d4eba7b75dcf8761529eedce79cff</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262616819/job/17005204439</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262616819/job/17005225646</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262616819/job/17005226033</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262616819/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/5ae88e1213aad3b3f0e711e265b36e6e9ec27ba7</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262592009/job/17005116567</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262592009/job/17005134208</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262592009/job/17005134640</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/actions/runs/6262592009/usage</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/c61152d3e6e30e54a7fbcc54d024815b0a3207b0</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/9af913bb40dbc26f6f9afad09b2e3ce0d82cf97c</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/8d3e79bbc66c7218caf9baad1049e5c44aaadc9d</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/c8687978adaa122303295f5b043bc1a79f6d883d</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/emmaking-smith/hitea2/commit/4adfc0fc4d38f0acbd02cb389cc63c62547e8a00</loc>
+  <lastmod>2023-09-21T14:23:34+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
